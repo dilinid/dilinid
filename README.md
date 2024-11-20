@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilini Dissanayake</h1>
+<h1 align="center">Hi, I'm Dilini Dissanayake<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h3 align="center">A Passionate Frontend and Mobile App Developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilinid&label=Profile%20views&color=0e75b6&style=flat" alt="dilinid" /> </p>
