@@ -13,16 +13,12 @@
 
 - 📫 How to reach me **ddissanayake2k@gmail.com**
 ---
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dilinid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilinid" height="30" width="40" /></a>
 <a href="https://fb.com/dilini dissanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilini dissanayake" height="30" width="40" /></a>
 <a href="https://medium.com/@dilinid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dilinid" height="30" width="40" /></a>
-<a href="/https://medium.com/feed/@dilinid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@dilinid" height="30" width="40" /></a>
 </p>
 
 ---
