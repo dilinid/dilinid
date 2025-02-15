@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Dilini<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<h3 align="center">A Passionate Frontend and Mobile App Developer from Colombo, Sri Lanka</h3>
+<h3 align="center">A Passionate Fullstack and Mobile App Developer from Colombo, Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilinid&label=Profile%20views&color=0e75b6&style=flat" alt="dilinid" /> </p>
 
 - 🔭 I’m currently working on [SEYONI](https://github.com/dilinid/Seyoni)
 
-- 🌱 I’m currently learning **Angular | Docker**
+- 🌱 I’m currently learning **Angular | React JS | Docker**
 
 - 📝 I regularly write articles on [https://dilinid.medium.com/](https://dilinid.medium.com/)
 
