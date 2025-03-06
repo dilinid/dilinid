@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilinid&label=Profile%20views&color=0e75b6&style=flat" alt="dilinid" /> </p>
 
-< !-- - 🔭 I’m currently working on [SEYONI](https://github.com/dilinid/Seyoni) -->
+- 🔭 I’m currently working on [SEYONI](https://github.com/dilinid/Seyoni)
 
 - 🌱 I’m currently learning **Angular | React JS | Docker**
 
