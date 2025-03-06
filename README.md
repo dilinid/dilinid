@@ -3,15 +3,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilinid&label=Profile%20views&color=0e75b6&style=flat" alt="dilinid" /> </p>
 
-- 🔭 I’m currently working on [SEYONI](https://github.com/dilinid/Seyoni)
+- 🌱 I’m currently learning **Angular | React JS | Docker | Python Flask**  
 
-- 🌱 I’m currently learning **Angular | React JS | Docker**
+- 📝 I regularly write articles on [Medium](https://dilinid.medium.com/)  
 
-- 📝 I regularly write articles on [https://dilinid.medium.com/](https://dilinid.medium.com/)
+- 💬 Ask me about **Flutter | Frontend Development**  
 
-- 💬 Ask me about **Flutter**
+- 📫 Contact me **ddissanayake2k@gmail.com**  
 
-- 📫 How to reach me **ddissanayake2k@gmail.com**
+- 💼 Intern at **Rajida Holdings**
+  
 ---
 
 <h3 align="center">Connect with me :handshake:</h3>
